@@ -1,5 +1,8 @@
+// import 'dart:core' as prefix0;
+
 void main(){
-  String name = "teteng";
+  /*
+  String name = "";
   int age = 23;
   bool status =true;
   List<String> kelas = ['papan', 'Penghapus'];
@@ -12,8 +15,19 @@ Map Siswa = {'nama':"nama" };
 String name2 = 'Gatot';
 
 
+
+
+
 // print(message2);
 
 int a = 29;
 int b = 10;
+*/
+
+int a = 9;
+int b = 2;
+print("$a = a");
+print("$a + $b = ${a + b}");
+print("$a - $b = ${a - b}");
 }
+
